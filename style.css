@@ -1,0 +1,22 @@
+form {
+    border-radius: 5px;
+    padding: 20px;
+}
+
+.small {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 20%;
+}
+
+.mySmall {
+    color: red;
+    font-size: 10px;
+    padding-top: 5px;
+}
+
+.fullfill {
+    min-width: 40%;
+}
